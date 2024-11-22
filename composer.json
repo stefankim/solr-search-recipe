@@ -1,5 +1,5 @@
 {
-    "name": "kanopi/solr-search-pantheon-recipe",
+    "name": "stefankim/solr-search-recipe",
     "description": "Enables &amp; configures essential SOLR search modules and base search view with facets.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",

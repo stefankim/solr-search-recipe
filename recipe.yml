@@ -6,7 +6,6 @@ install:
   - search_api
   - facets
   - search_api_solr
-  - search_api_pantheon
   - configurable_views_filter_block
   - language
   - search_api_solr_admin

@@ -1,4 +1,4 @@
-name: 'SOLR Search Pantheon Recipe'
+name: 'SOLR Search Recipe'
 description: 'Enables and configures essential modules and base search view with facets.'
 type: 'Site config'
 
